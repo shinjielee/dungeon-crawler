@@ -1,6 +1,6 @@
 
 # 地牢獵人 (Dungeon Crawler: Auto-Battler Engine)
-此專案為利用Claude Sonnet 4.6根據以下需求規格書所生成之Java專案
+此專案為利用Claude Sonnet 4.6根據以下需求規格書所生成之Java專案，用來讓學生練習Review AI所寫出來的Code，能夠基於Code Structure View從架構層面著手進行Code Comprehension練習。
 
 <img width="1341" height="1282" alt="image" src="https://github.com/user-attachments/assets/983c888b-b8e2-4d19-9af1-61a80ff96416" />
 
